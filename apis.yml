@@ -39,7 +39,6 @@ apis:
   - name: PM25.in
     description: "Air quality of China"
     humanURL: http://www.pm25.in/api_doc
-    baseURL: http://www.pm25.in/api_doc
     tags:
       - Environment
     properties:
