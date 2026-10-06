@@ -27,7 +27,7 @@ description: "Air quality of China"
 url: http://www.pm25.in/api_doc
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Environment"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: http://www.pm25.in/api_doc
 common:
+  - url: http://www.pm25.in/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/pm25-in-domain-security.yml
   - type: Website
